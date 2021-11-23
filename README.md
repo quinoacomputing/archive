@@ -2,9 +2,9 @@
 
 _This repository is a snapshot of [quinoacomputing.github.io](https://quinoacomputing.github.io) ([quinoacomputing.org](https://quinoacomputing.org)) on November 23, 2021, which still contains information on tools, _walker_, _rngtest_, and _fileconv_, previously part of Quinoa, before [#530](https://github.com/quinoacomputing/quinoa/pull/530) removed them. The contents are rendered at [quinoacomputing.github.io/archive](https://quinoacomputing.github.io/archive), for archival purposes only._
 
-<img src="https://quinoacomputing.github.io/archive/quinoa.svg" align="right" width="25%" background=transparent>
-
 # Quinoa
+
+<img src="https://quinoacomputing.github.io/archive/quinoa.svg" align="right" width="25%" background=transparent>
 
 _Adaptive computational fluid dynamics_ - https://quinoacomputing.org
 
