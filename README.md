@@ -2,7 +2,7 @@
 
 <img src="https://quinoacomputing.github.io/quinoa.github.io/quinoa.svg" align="right" width="25%" background=transparent>
 
-_This repository is a snapshot of [quinoacomputing.github.io](https://quinoacomputing.github.io) ([quinoacomputing.org](https://quinoacomputing.org)) on November 11, 2021. It still contains information on tools, _walker_, _rngtest_, and _fileconv_, previously part of Quinoa, before [#530](https://github.com/quinoacomputing/quinoa/pull/530) removed them. The contents are rendered at [quinoacomputing.github.io/quinoa.github.io](https://quinoacomputing.github.io/quinoa.github.io). This repository is for archival purposes only._
+_This repository is a snapshot of [quinoacomputing.github.io](https://quinoacomputing.github.io) ([quinoacomputing.org](https://quinoacomputing.org)) on November 11, 2021. It still contains information on tools, _walker_, _rngtest_, and _fileconv_, previously part of Quinoa, before [#530](https://github.com/quinoacomputing/quinoa/pull/530) removed them. The contents are rendered at [quinoacomputing.github.io/quinoa.github.io](https://quinoacomputing.github.io/quinoa.github.io), for archival purposes only._
 
 # Quinoa
 
